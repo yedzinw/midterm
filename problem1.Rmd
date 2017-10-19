@@ -1,0 +1,21 @@
+---
+title: "5:30 Section"
+output: html_document
+---
+
+###Yedzin W Tobgay
+###October 15, 2017
+
+Here is some arithimetic
+
+
+```{r}
+X<-5
+Y<-6
+X^2+Y^2
+```
+
+```{r}
+#  [1] 61
+
+```
